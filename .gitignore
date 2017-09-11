@@ -1,0 +1,8 @@
+# Lines starting with '#' are considered comments.
+# Ignore any file named lol.txt.
+lol.txt
+# Ignore (generated) html files,
+*.xml
+*.qq
+*.exe
+*.html
